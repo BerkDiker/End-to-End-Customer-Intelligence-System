@@ -1,5 +1,9 @@
 # End-to-End Customer Intelligence System
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Overview
 
 This project develops a complete data-driven system to analyze customer behavior, predict churn risk, and recommend business actions.
