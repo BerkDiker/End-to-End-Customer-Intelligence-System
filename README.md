@@ -28,6 +28,7 @@ It combines machine learning, data analysis, and business logic to simulate real
 3. Churn probability prediction
 4. Customer segmentation based on risk levels
 5. Action recommendation system
+6. Interactive Power BI dashboard for decision-making
 
 ---
 
@@ -58,6 +59,7 @@ This system enables companies to:
 * Pandas, NumPy
 * Scikit-learn
 * Google Colab
+* Power BI
 
 ---
 
