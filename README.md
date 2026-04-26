@@ -4,6 +4,15 @@
 
 ![Dashboard](dashboard.png)
 
+## Dashboard Features
+
+* KPI tracking (Total Customers, Churn Rate, Avg Charges)
+* Customer churn distribution analysis
+* Contract-based churn comparison
+* Risk segmentation visualization (ML output)
+* Pricing vs churn relationship
+
+
 ## Overview
 
 This project develops a complete data-driven system to analyze customer behavior, predict churn risk, and recommend business actions.
